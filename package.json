@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Chickendish/Bamazon/issues"
   },
-  "homepage": "https://github.com/Chickendish/Bamazon#readme"
+  "homepage": "https://github.com/Chickendish/Bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
 }
